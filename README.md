@@ -1,2 +1,2 @@
 # Heberman_Cancer_Data_EDA
-This project contains the exploratory data analysis of Haberman Cancer data analysis and finding the important features from it.
+The research provides a statistical study and observations of the key aspects of Haberman Cancer data processing.
